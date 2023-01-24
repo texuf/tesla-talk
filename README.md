@@ -6,3 +6,8 @@ twilio notifications about your battery status
 
 - create .env file with `export foo=bar`
 - run `source .env && python scripts.py`
+
+
+## resources
+
+https://arctype.com/blog/postgres-heroku/
